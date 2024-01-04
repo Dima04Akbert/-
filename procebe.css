@@ -75,7 +75,7 @@ div{
     height: 65px;
 }
 footer{
-    position: relative;
+    position:absolute;
     bottom: 420px;
 }
    
