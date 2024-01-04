@@ -74,5 +74,9 @@ div{
     width: 65px;
     height: 65px;
 }
+footer{
+    position:absolute;
+    top: 420px;
+}
 
    
